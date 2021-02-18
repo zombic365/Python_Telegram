@@ -1,0 +1,10 @@
+{
+    "Schedule": {
+        "familyday": 1,
+        "testfamilyday": "familyday는 time.py에 의해서 매월 1일 자동으로 해당 키의 값은 변경됩니다. 초기는 1로 작성"
+    },
+    "Telegram": {
+        "bot_token": "텔레그램 봇 토큰 값을 넣어주세요.",
+        "chat_id": "텔레그램 대화방 값를 넣어주세요."
+    }
+}
